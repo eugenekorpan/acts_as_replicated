@@ -1,0 +1,2 @@
+1. what ldap servers whould it support?
+2. how should it authenticate?
