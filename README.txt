@@ -1,3 +1,6 @@
+This is very rare case when you need directory service not only to authenticate but you also store some data in it.
+The idea was to patch ActiveRecord and to give developer ability to work with such kind of distributed data as with common ActiveRecord objects.
+
 Usage:
   
   OpenDS server sample:
